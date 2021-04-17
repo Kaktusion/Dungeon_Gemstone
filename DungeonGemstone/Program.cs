@@ -235,7 +235,8 @@ namespace DungeonGemstone
             new Entity("Hobgoblin",125,13,6,0),
             new Entity("Gouhl",50,11,8,0),
             new Entity("Ogr",125,12,7,0),
-            new Entity("Wielki Admin",100,10,10,0)
+            new Entity("Wielki Admin",100,10,10,0),
+            new Entity("Kubi",75,12,14,0),
             };
 
                 bool i = true;
