@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DungeonGemstone", "DungeonGemstone\DungeonGemstone.csproj", "{F8B88102-68B1-4924-A843-457BC3B9152F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ADFECD9E-53A4-406D-B272-2E8F9DF4465B}"
+	ProjectSection(SolutionItems) = preProject
+		DungeonGemstone\bin\Debug\netcoreapp3.1\PlayerData.json = DungeonGemstone\bin\Debug\netcoreapp3.1\PlayerData.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8B88102-68B1-4924-A843-457BC3B9152F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B88102-68B1-4924-A843-457BC3B9152F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B88102-68B1-4924-A843-457BC3B9152F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B88102-68B1-4924-A843-457BC3B9152F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1A9C151-AB93-4CAC-BFF1-A1689A68C41B}
+	EndGlobalSection
+EndGlobal
