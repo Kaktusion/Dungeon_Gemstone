@@ -237,7 +237,7 @@ namespace DungeonGemstone
             new Entity("Ogr",125,12,7,0),
             new Entity("Wielki Admin",100,10,10,0),
             new Entity("Kubi",75,12,14,0),
-            new Entity("Barbarzyńca",200,2,5,0)
+            new Entity("Barbarzyńca",200,7,10,0)
             };
 
                 bool i = true;
